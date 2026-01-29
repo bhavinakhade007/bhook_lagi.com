@@ -1,0 +1,5 @@
+flask
+pillow
+numpy
+tensorflow
+# If you want a smaller install, consider 'tensorflow-cpu' instead of 'tensorflow'
